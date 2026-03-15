@@ -1,0 +1,17 @@
+This bot provides server logging functionality.
+
+To perform logging features, the bot may store:
+
+Message content
+
+User IDs
+
+Channel IDs
+
+Server IDs
+
+Message edit or deletion events
+
+This data is stored solely to provide server logging services.
+
+The bot developer does not use this information for analytics, marketing, or advertising.
