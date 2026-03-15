@@ -1,0 +1,17 @@
+This bot may collect and store information necessary for moderation features.
+
+Possible stored data includes:
+
+User IDs
+
+Server IDs
+
+Moderation logs
+
+Timestamps of moderation actions
+
+This data is used to provide moderation tools such as warnings, mutes, and bans.
+
+The bot does not collect personal information outside of Discord identifiers.
+
+Server administrators may request removal of stored moderation data.
