@@ -1,0 +1,13 @@
+This bot may collect limited information necessary for operation.
+
+The following data may be processed:
+
+Discord User IDs
+
+Discord Server IDs
+
+Command usage
+
+This information is used only to operate bot commands and ensure proper functionality.
+
+No personal information outside of what Discord provides is collected. Data is not sold or shared with third parties.
