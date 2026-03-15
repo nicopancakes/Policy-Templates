@@ -1,0 +1,7 @@
+This Discord bot does not collect, store, or process personal data from users. The bot only responds to commands sent within Discord servers and does not maintain any database of user information.
+
+No information such as user IDs, message content, or server data is stored.
+
+Because no information is collected, there is no data shared with third parties.
+
+If you have questions about this policy, contact the bot developer.
