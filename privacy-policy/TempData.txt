@@ -1,0 +1,11 @@
+This bot temporarily stores certain data in order to process commands.
+
+Temporary information may include:
+
+Command inputs
+
+User IDs
+
+Server IDs
+
+All stored information is automatically deleted after a short period and is not permanently saved.
